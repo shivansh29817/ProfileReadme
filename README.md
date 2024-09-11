@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=36&duration=2002&pause=1000&color=F7F7F7&width=755&height=80&lines=Yoo%2C+Welcome+to+Shivansh's+Github+Profile+!)](https://git.io/typing-svg)
 ## 🌟 Future Tech Innovator | MERN Stack Aficionado | IoT Enthusiast 🌟
-<br>###🚀 What I’m Passionate About:
+<br>
+### 🚀 What I’m Passionate About:
 <br>MERN Stack Mastery: Crafting dynamic, full-stack web solutions.
 <br>Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.<br>
 IoT Innovations: Designing and developing cutting-edge IoT projects.<br>
