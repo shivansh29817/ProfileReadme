@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=F7F7F7&width=435&lines=Yoo%2C+Welcome+to+Shivansh's+Github+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2002&pause=1000&color=F7F7F7&width=435&lines=Yoo%2C+Welcome+to+Shivansh's+Github+Profile!)](https://git.io/typing-svg)
 
-# 🌟 Future Tech Innovator | MERN Stack Aficionado | IoT Enthusiast 
-<br><br>🚀 What I’m Passionate About:<br><br>MERN Stack Mastery: Crafting dynamic, full-stack web solutions.<br>Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.<br>IoT Innovations: Designing and developing cutting-edge IoT projects.<br><br>Let’s connect and explore the future of tech together! Check out my projects and let’s build something amazing!
-
+# 🌟 Future Tech Innovator | MERN Stack Aficionado | IoT Enthusiast 🌟
+<br><🚀 What I’m Passionate About:<br><br>MERN Stack Mastery: Crafting dynamic, full-stack web solutions.<br>Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.<br>IoT Innovations: Designing and developing cutting-edge IoT projects.<br><br>Let’s connect and explore the future of tech together! Check out my projects and let’s build something amazing!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9Y5xB3Pyy9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivansh._.rusty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh-mishra-9747a922a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rustyplays) 
