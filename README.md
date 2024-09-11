@@ -3,11 +3,13 @@
 
 👋 Passionate Computer Science Engineering student with expertise in the MERN stack and a deep understanding of core CS concepts. I thrive on building innovative solutions and am particularly drawn to the world of IoT, where I’ve developed several hands-on projects that merge software with hardware. Continuously exploring new technologies, I’m always ready to collaborate and contribute to cutting-edge projects that push the boundaries of tech.
 ## 🌟 Future Tech Innovator | MERN Stack Aficionado | IoT Enthusiast 🌟
-### 🚀 What I’m Passionate About:
-MERN Stack Mastery: Crafting dynamic, full-stack web solutions.
-<br>Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.<br>
-IoT Innovations: Designing and developing cutting-edge IoT projects.<br>
-<br>Let’s connect and explore the future of tech together! Check out my projects and let’s build something amazing!
+### 🔧 What I’m Passionate About:
+- MERN Stack Mastery: Crafting dynamic, full-stack web solutions.
+- Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.
+- IoT Innovations: Designing and developing cutting-edge IoT projects.
+
+🛠️ Open to Collabs:
+Let’s connect and explore the future of tech together! Check out my projects and let’s build something amazing!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9Y5xB3Pyy9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivansh._.rusty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh-mishra-9747a922a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rustyplays) 
